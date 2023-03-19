@@ -1,0 +1,14 @@
+{
+  "name": "wiz-midi-reactive",
+  "version": "0.0.1",
+  "description": "Make a Wiz smart light cycle through RGB colors based on note data from a MIDI file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "DevPika",
+  "license": "MIT",
+  "dependencies": {
+    "midi-player-js": "^2.0.16"
+  }
+}
